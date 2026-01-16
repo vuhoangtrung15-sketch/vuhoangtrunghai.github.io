@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8"
+      <title>Tiêu đề của trang web</title>
+   </head>
+   <body>
+      <h1>Đây là phần đầu của trang web</h1>
+       <p>XIN CHÀO BẠN</p>
+   </body>
+</html>
